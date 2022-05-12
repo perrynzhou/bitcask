@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"git.mills.io/prologic/bitcask/internal"
-	"git.mills.io/prologic/bitcask/internal/data/codec"
+	"bitcask/internal"
+	"bitcask/internal/data/codec"
 	"github.com/pkg/errors"
 	"golang.org/x/exp/mmap"
 )

@@ -12,7 +12,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/tidwall/redcon"
 
-	"git.mills.io/prologic/bitcask"
+	"bitcask"
 )
 
 type server struct {

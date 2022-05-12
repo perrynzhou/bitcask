@@ -3,7 +3,7 @@ package bitcask
 import (
 	"os"
 
-	"git.mills.io/prologic/bitcask/internal/config"
+	"bitcask/internal/config"
 )
 
 const (

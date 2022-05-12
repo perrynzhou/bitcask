@@ -6,7 +6,7 @@ import (
 	"io"
 
 	"github.com/pkg/errors"
-	"git.mills.io/prologic/bitcask/internal"
+	"bitcask/internal"
 )
 
 const (

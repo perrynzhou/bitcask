@@ -18,9 +18,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"git.mills.io/prologic/bitcask/internal"
-	"git.mills.io/prologic/bitcask/internal/config"
-	"git.mills.io/prologic/bitcask/internal/mocks"
+	"bitcask/internal"
+	"bitcask/internal/config"
+	"bitcask/internal/mocks"
 )
 
 var (

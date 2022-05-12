@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"git.mills.io/prologic/bitcask/internal"
+	"bitcask/internal"
 	"github.com/stretchr/testify/assert"
 )
 

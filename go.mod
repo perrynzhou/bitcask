@@ -1,4 +1,4 @@
-module git.mills.io/prologic/bitcask
+module bitcask
 
 go 1.16
 

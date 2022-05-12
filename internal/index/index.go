@@ -4,7 +4,7 @@ import (
 	"os"
 
 	art "github.com/plar/go-adaptive-radix-tree"
-	"git.mills.io/prologic/bitcask/internal"
+	"bitcask/internal"
 )
 
 // Indexer is an interface for loading and saving the index (an Adaptive Radix Tree)

@@ -8,7 +8,7 @@ import (
 
 	"github.com/pkg/errors"
 	art "github.com/plar/go-adaptive-radix-tree"
-	"git.mills.io/prologic/bitcask/internal"
+	"bitcask/internal"
 )
 
 const (

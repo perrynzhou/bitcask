@@ -18,13 +18,13 @@ import (
 	art "github.com/plar/go-adaptive-radix-tree"
 	log "github.com/sirupsen/logrus"
 
-	"git.mills.io/prologic/bitcask/internal"
-	"git.mills.io/prologic/bitcask/internal/config"
-	"git.mills.io/prologic/bitcask/internal/data"
-	"git.mills.io/prologic/bitcask/internal/data/codec"
-	"git.mills.io/prologic/bitcask/internal/index"
-	"git.mills.io/prologic/bitcask/internal/metadata"
-	"git.mills.io/prologic/bitcask/scripts/migrations"
+	"bitcask/internal"
+	"bitcask/internal/config"
+	"bitcask/internal/data"
+	"bitcask/internal/data/codec"
+	"bitcask/internal/index"
+	"bitcask/internal/metadata"
+	"bitcask/scripts/migrations"
 )
 
 const (
